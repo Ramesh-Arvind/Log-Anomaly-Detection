@@ -77,7 +77,7 @@ To use this code for anomaly detection in your own log files, follow these steps
 
 ## License
 
-This project is licensed under the A special issue of Applied Sciences (ISSN 2076-3417). This special issue belongs to the section "Computing and Artificial Intelligence".
+This project is licensed under the A special issue of Applied Sciences (ISSN 2076-3417). This special issue belongs to the section Computing and Artificial Intelligence.
 
 ## Acknowledgments
 
